@@ -30,7 +30,7 @@ Use empty quotes to remove title from admonition call-out
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa. 
 ```
 
-If you don't use markdown plugin, wraps syntax in an HTML paragraph:
+If you don't use markdown plugin, just wrap the syntax in an HTML paragraph:
 
 ```
 <p>!!!info An option Title
