@@ -37,4 +37,3 @@ If you don't use markdown plugin, just wrap the syntax in an HTML paragraph:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.</p>
 ```
 
-**Note:** Currently, the body of a call-out supports only simple text and basic HTML.
